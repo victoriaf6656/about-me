@@ -2,6 +2,6 @@ Victoria Feng
 
 Student
 
-High School of Telecommunication of Arts and Technology
+High School of Telecommunication Arts and Technology
 
 victoriaf6656@hstat.org
