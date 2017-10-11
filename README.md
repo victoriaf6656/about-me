@@ -15,6 +15,7 @@
 >4. Physics
 >5. Pre-Calculus
 >6. U.S. History
->7. Software Engineering Program (SEP)
+>7. Software Engineering Program (SEP); Speech (Thurdsay)  
+This year she is learning about Git and Github, Web Design, and 3D Modeling in SEP.
 >8. Lunch  
->9. Gym (Wednesday and Thursday)
+>9. Gym (Wednesday and Thursday)  
