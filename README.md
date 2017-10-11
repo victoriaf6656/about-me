@@ -1,12 +1,12 @@
-##Victoria Feng
+#Victoria Feng
 
-###**_Student_**
+##**_Student_**
 
-####High School of Telecommunication Arts and Technology
+###High School of Telecommunication Arts and Technology
 
-#####[victoriaf6656@hstat.org](victoriaf6656@hstat.org)
+####[victoriaf6656@hstat.org](victoriaf6656@hstat.org)
 
-Victoria Feng is a student at HSTAT, a junior. She is trying to get the advanced diploma by passing all the regents she needs to take. Her schedule for this year is below. 
+#####Victoria Feng is a student at HSTAT, a junior. She is trying to get the advanced diploma by passing all the regents she needs to take. Her schedule for this year is below. 
 
 Schedule
 
